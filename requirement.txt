@@ -1,0 +1,8 @@
+fastapi
+pydantic
+python_dotenv
+langchain
+langsmith
+chromadb
+langchain_chroma
+langchain_ollama
